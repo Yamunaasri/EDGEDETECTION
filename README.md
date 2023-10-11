@@ -127,11 +127,9 @@ plt.show()
 ![Screenshot 2023-10-11 162120](https://github.com/Yamunaasri/EDGEDETECTION/assets/115707860/7ec6da2d-9287-457f-b9a1-7d747cc28b33)
 
 ### LAPLACIAN EDGE DETECTOR
-<br>
 ![Screenshot 2023-10-11 162146](https://github.com/Yamunaasri/EDGEDETECTION/assets/115707860/795fb662-f728-43a8-bad2-2a00fb27ca06)
 
 ### CANNY EDGE DETECTOR
-<br>
 ![Screenshot 2023-10-11 162217](https://github.com/Yamunaasri/EDGEDETECTION/assets/115707860/dd97f663-2534-4fe2-a6a7-ad60ddefce37)
 
 ## Result:
